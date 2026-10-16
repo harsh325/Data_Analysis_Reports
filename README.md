@@ -52,8 +52,8 @@ The repository includes report documents, datasets, and screenshots of my work.
 | 🖼️ [Report Screenshot 2](Screenshot%202026-10-16%20120442.png) | Visual reference |
 | 🖼️ [Report Screenshot 3](Screenshot%202026-10-16%20120518.png) | Visual reference |
 | 🖼️ [Report Screenshot 4](Screenshot%202026-10-16%20120535.png) | Visual reference |
-| 🖼️ [Report Screenshot 5](report%5.png) | Visual reference |
-| 📈 [Power Bi dashboard ](Amazon%India%Sales%2025.html) | Visual reference |
+| 🖼️ [Report Screenshot 5](report%205.png) | Visual reference |
+| 📈 [Power Bi dashboard ](Amazon%20India%20Sales%202025.html) | Visual reference |
 
 ## 📈 Project Highlights
 
