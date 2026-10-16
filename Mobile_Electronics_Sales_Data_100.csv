@@ -1,0 +1,101 @@
+Sale_ID,Date,Region,Brand,Product,Category,Units_Sold,Unit_Price,Revenue,Salesperson,Payment_Method
+1001,2026-01-19,South,Sony,WH-1000XM5,Headphones,6,25000,150000,Sneha,UPI
+1002,2026-04-27,West,Dell,Inspiron 15,Laptop,7,50000,350000,Sneha,Cash
+1003,2026-05-13,East,Samsung,Galaxy S24,Mobile,4,75000,300000,Priya,Net Banking
+1004,2026-01-31,North,Samsung,Galaxy A35,Mobile,6,28000,168000,Rahul,UPI
+1005,2026-01-10,North,Apple,iPhone 14,Mobile,3,60000,180000,Vikas,UPI
+1006,2026-01-10,North,Xiaomi,Xiaomi 14,Mobile,4,55000,220000,Sneha,UPI
+1007,2026-03-21,North,Apple,iPhone 15,Mobile,6,70000,420000,Neha,Net Banking
+1008,2026-06-28,South,Samsung,Galaxy A35,Mobile,8,28000,224000,Vikas,Net Banking
+1009,2026-02-17,North,Apple,iPhone 14,Mobile,4,60000,240000,Amit,Cash
+1010,2026-01-26,North,HP,Victus 15,Laptop,2,80000,160000,Amit,Net Banking
+1011,2026-03-09,North,Dell,Inspiron 15,Laptop,1,50000,50000,Vikas,Net Banking
+1012,2026-05-15,South,HP,Victus 15,Laptop,5,80000,400000,Rahul,Cash
+1013,2026-04-09,West,Dell,Inspiron 15,Laptop,1,50000,50000,Vikas,Cash
+1014,2026-02-02,West,Xiaomi,Xiaomi 14,Mobile,8,55000,440000,Vikas,Cash
+1015,2026-01-25,South,Apple,iPhone 14,Mobile,4,60000,240000,Neha,Card
+1016,2026-03-10,North,Samsung,Galaxy A35,Mobile,7,28000,196000,Amit,Card
+1017,2026-06-23,South,Sony,Bravia 55,TV,6,90000,540000,Neha,Cash
+1018,2026-05-13,North,Apple,iPhone 14,Mobile,1,60000,60000,Neha,Card
+1019,2026-03-06,West,Dell,Inspiron 15,Laptop,3,50000,150000,Vikas,Cash
+1020,2026-01-23,West,Apple,iPhone 15,Mobile,7,70000,490000,Neha,Cash
+1021,2026-02-15,South,Sony,Bravia 55,TV,8,90000,720000,Rahul,UPI
+1022,2026-01-02,South,Samsung,Galaxy S24,Mobile,4,75000,300000,Amit,Cash
+1023,2026-02-24,West,Dell,Inspiron 15,Laptop,7,50000,350000,Neha,Net Banking
+1024,2026-05-16,West,Xiaomi,Xiaomi 14,Mobile,2,55000,110000,Neha,Cash
+1025,2026-02-09,West,Samsung,Galaxy A35,Mobile,4,28000,112000,Sneha,Card
+1026,2026-01-25,West,Samsung,Galaxy A35,Mobile,4,28000,112000,Neha,Card
+1027,2026-05-05,East,Apple,iPhone 14,Mobile,7,60000,420000,Sneha,Card
+1028,2026-04-14,South,Sony,WH-1000XM5,Headphones,4,25000,100000,Priya,Card
+1029,2026-04-11,East,Dell,Inspiron 15,Laptop,6,50000,300000,Vikas,Card
+1030,2026-04-09,North,Samsung,Galaxy A35,Mobile,6,28000,168000,Vikas,UPI
+1031,2026-02-05,North,Sony,Bravia 55,TV,3,90000,270000,Priya,Net Banking
+1032,2026-01-17,South,Samsung,Galaxy A35,Mobile,7,28000,196000,Vikas,Net Banking
+1033,2026-01-26,West,HP,Victus 15,Laptop,6,80000,480000,Sneha,UPI
+1034,2026-03-16,North,Xiaomi,Redmi Note 13,Mobile,8,18000,144000,Sneha,Net Banking
+1035,2026-01-22,West,Apple,iPhone 15,Mobile,4,70000,280000,Vikas,Net Banking
+1036,2026-06-30,North,Samsung,Galaxy S24,Mobile,6,75000,450000,Priya,Net Banking
+1037,2026-03-13,South,Sony,WH-1000XM5,Headphones,4,25000,100000,Rahul,Net Banking
+1038,2026-03-12,North,Xiaomi,Redmi Note 13,Mobile,2,18000,36000,Sneha,Cash
+1039,2026-03-27,East,HP,Victus 15,Laptop,4,80000,320000,Neha,Cash
+1040,2026-06-06,East,Apple,iPhone 14,Mobile,3,60000,180000,Neha,Cash
+1041,2026-05-10,East,Apple,iPhone 15,Mobile,8,70000,560000,Rahul,Net Banking
+1042,2026-02-28,West,HP,Victus 15,Laptop,2,80000,160000,Neha,Cash
+1043,2026-03-03,West,Apple,iPhone 14,Mobile,7,60000,420000,Rahul,Net Banking
+1044,2026-06-04,West,HP,Victus 15,Laptop,4,80000,320000,Priya,Net Banking
+1045,2026-01-27,North,Dell,Inspiron 15,Laptop,3,50000,150000,Rahul,Cash
+1046,2026-03-25,West,HP,Victus 15,Laptop,4,80000,320000,Neha,Card
+1047,2026-05-12,West,Sony,Bravia 55,TV,4,90000,360000,Neha,Net Banking
+1048,2026-02-27,East,Xiaomi,Redmi Note 13,Mobile,4,18000,72000,Rahul,Net Banking
+1049,2026-03-25,South,Dell,Inspiron 15,Laptop,5,50000,250000,Priya,Net Banking
+1050,2026-06-22,North,Dell,Inspiron 15,Laptop,1,50000,50000,Sneha,Net Banking
+1051,2026-02-28,East,Samsung,Galaxy S24,Mobile,3,75000,225000,Sneha,UPI
+1052,2026-01-14,South,Sony,Bravia 55,TV,8,90000,720000,Neha,Cash
+1053,2026-01-15,South,Apple,iPhone 14,Mobile,1,60000,60000,Priya,Net Banking
+1054,2026-04-14,South,Xiaomi,Xiaomi 14,Mobile,6,55000,330000,Vikas,UPI
+1055,2026-06-25,East,Samsung,Galaxy A35,Mobile,8,28000,224000,Neha,Net Banking
+1056,2026-05-08,East,Xiaomi,Xiaomi 14,Mobile,1,55000,55000,Amit,Cash
+1057,2026-05-13,North,Dell,Inspiron 15,Laptop,3,50000,150000,Neha,Net Banking
+1058,2026-06-15,West,Sony,Bravia 55,TV,6,90000,540000,Neha,UPI
+1059,2026-06-29,East,Samsung,Galaxy A35,Mobile,7,28000,196000,Vikas,Card
+1060,2026-04-06,North,Xiaomi,Redmi Note 13,Mobile,6,18000,108000,Rahul,Card
+1061,2026-02-11,West,Apple,iPhone 14,Mobile,4,60000,240000,Amit,UPI
+1062,2026-04-16,West,Sony,WH-1000XM5,Headphones,8,25000,200000,Amit,UPI
+1063,2026-06-21,East,Apple,iPhone 14,Mobile,7,60000,420000,Amit,UPI
+1064,2026-02-12,South,HP,Victus 15,Laptop,2,80000,160000,Sneha,Net Banking
+1065,2026-03-08,West,Apple,iPhone 15,Mobile,4,70000,280000,Neha,Cash
+1066,2026-06-30,East,Sony,Bravia 55,TV,3,90000,270000,Neha,Cash
+1067,2026-06-16,East,Apple,iPhone 14,Mobile,3,60000,180000,Amit,UPI
+1068,2026-01-16,East,Dell,Inspiron 15,Laptop,1,50000,50000,Neha,Net Banking
+1069,2026-06-14,South,HP,Victus 15,Laptop,1,80000,80000,Rahul,Net Banking
+1070,2026-05-09,South,Samsung,Galaxy A35,Mobile,7,28000,196000,Priya,UPI
+1071,2026-04-22,East,Dell,Inspiron 15,Laptop,2,50000,100000,Sneha,Net Banking
+1072,2026-04-15,North,Sony,WH-1000XM5,Headphones,2,25000,50000,Rahul,Cash
+1073,2026-04-15,South,Sony,Bravia 55,TV,1,90000,90000,Rahul,Net Banking
+1074,2026-06-27,East,Apple,iPhone 14,Mobile,7,60000,420000,Neha,UPI
+1075,2026-03-20,East,Samsung,Galaxy S24,Mobile,7,75000,525000,Priya,Net Banking
+1076,2026-05-11,East,Dell,Inspiron 15,Laptop,4,50000,200000,Rahul,UPI
+1077,2026-02-01,East,Sony,WH-1000XM5,Headphones,5,25000,125000,Sneha,UPI
+1078,2026-03-22,North,Samsung,Galaxy S24,Mobile,8,75000,600000,Rahul,Card
+1079,2026-06-30,East,Samsung,Galaxy S24,Mobile,8,75000,600000,Sneha,UPI
+1080,2026-01-06,North,Xiaomi,Redmi Note 13,Mobile,7,18000,126000,Neha,Net Banking
+1081,2026-02-18,East,Sony,WH-1000XM5,Headphones,8,25000,200000,Sneha,UPI
+1082,2026-03-04,West,HP,Victus 15,Laptop,7,80000,560000,Vikas,Net Banking
+1083,2026-01-29,West,Samsung,Galaxy S24,Mobile,6,75000,450000,Amit,Cash
+1084,2026-04-13,East,Xiaomi,Xiaomi 14,Mobile,6,55000,330000,Vikas,Cash
+1085,2026-02-13,West,Sony,Bravia 55,TV,5,90000,450000,Rahul,UPI
+1086,2026-03-28,South,Xiaomi,Xiaomi 14,Mobile,8,55000,440000,Priya,Card
+1087,2026-05-08,East,Dell,Inspiron 15,Laptop,5,50000,250000,Amit,UPI
+1088,2026-01-16,South,Apple,iPhone 14,Mobile,5,60000,300000,Neha,UPI
+1089,2026-01-08,East,Xiaomi,Xiaomi 14,Mobile,6,55000,330000,Priya,Card
+1090,2026-04-14,East,Dell,Inspiron 15,Laptop,3,50000,150000,Neha,Card
+1091,2026-06-03,West,Dell,Inspiron 15,Laptop,8,50000,400000,Vikas,Net Banking
+1092,2026-02-01,West,Dell,Inspiron 15,Laptop,2,50000,100000,Sneha,Card
+1093,2026-01-27,South,Dell,Inspiron 15,Laptop,3,50000,150000,Sneha,Card
+1094,2026-01-01,North,Xiaomi,Redmi Note 13,Mobile,4,18000,72000,Rahul,Cash
+1095,2026-01-03,North,HP,Victus 15,Laptop,8,80000,640000,Rahul,Card
+1096,2026-02-28,North,Dell,Inspiron 15,Laptop,8,50000,400000,Amit,Card
+1097,2026-02-14,North,Samsung,Galaxy A35,Mobile,2,28000,56000,Vikas,UPI
+1098,2026-02-21,West,HP,Victus 15,Laptop,4,80000,320000,Priya,Net Banking
+1099,2026-01-17,North,Dell,Inspiron 15,Laptop,5,50000,250000,Amit,Net Banking
+1100,2026-01-26,East,Samsung,Galaxy A35,Mobile,4,28000,112000,Amit,Net Banking
